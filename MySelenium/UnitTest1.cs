@@ -24,7 +24,7 @@ namespace MySelenium
             CustomControl.comboControl("ContentPlaceHolder1_AllMealsCombo", "Almonds");
             
             
-            Console.WriteLine("TestExecution");
+            
             Assert.Pass();
         }
     }
